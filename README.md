@@ -1,10 +1,11 @@
 # termuxcustom
 Customize Termux Terminal
-
+Update everyweek !
 
 ### New Features !
 
-  - New customize color
+  - New customize color Theme,
+  
 
 
 ### Installation
