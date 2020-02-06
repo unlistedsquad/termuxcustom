@@ -5,7 +5,6 @@ Customize Termux Terminal
 ### New Features !
 
   - New customize color
-  - New Fonts type
 
 
 ### Installation
@@ -24,19 +23,14 @@ $ sh setup.sh
 
 ### Customize
 
-You can customize or change color and fonts.
+You can customize or change color.
 For Color
 ``` sh
 cd termuxcustom
 ls
 ~/.termux/colors.sh
 ```
-For fonts
-```sh
-cd termuxcustom
-ls
-~/.termux/fonts.sh
-```
+
 
 
 #### Contact
